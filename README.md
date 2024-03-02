@@ -1,81 +1,57 @@
-![file-qG7xJYxXVw5KuElGjeBdXBhf](https://github.com/shadowdevnotreal/Bash-buddy/assets/43219706/a2dfbc79-ceb4-498a-9d1e-703072e169d5)
+![2024-03-02_05-10-38](https://github.com/shadowdevnotreal/darooch/assets/43219706/cbf203fd-97b5-4068-a7a0-773f5aae92d3)
 
 
-# BashBuddy
+# Darooch
 
-BashBuddy is a comprehensive tool designed to ensure your Bash scripts run smoothly across different environments by managing system commands and package dependencies. It supports a variety of package managers across Linux distributions and macOS.
+Darooch is a clone of a modified script based off the newest work by Michael Bazzell.
 
-## Support FOSS future development
+## Support FOSS future development - Simping for donations here 👇
 
-<a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+<a href="https://www.buymeacoffee.com/notarealdev">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
 
+[Get to know Buscador History](https://github.com/shadowdevnotreal/darooch.wiki.git/)
 
 ## Features
 
-- Automatic detection of the operating system and the appropriate package manager.
-- Verification of required system commands' availability.
-- Installation of missing packages upon user confirmation.
-- Support for `apt`, `dnf`/`yum`, `brew`, and `pacman` package managers.
-- Friendly, optional humor for users of all distributions, including Arch Linux.
+- Full export of fully loaded OSINT OS fully configured and ready to go.
 
-## Overview of BashBuddy Scripts
+## Overview of Darooch OS
 
-BashBuddy comes with three key scripts:
+1. **Tools from Buscador**:
+   - The backbone of Darooch, providing the fundamental existence of this project. Bazzell is a legend. Michael Bazzell spent 18 years as a government computer crime investigator. During the majority of that time, he was assigned to the FBI’s Cyber Crimes Task Force where he focused on open-source intelligence and computer-based crime investigations. He currently lives and works in Washington, D.C., and serves as the technical advisor for the television hacker drama “Mr. Robot” on the USA network. In anticipation of Season 2.
+   - ***[IntelTechniques by Michael Bazzell](https://inteltechniques.com/).***
 
-1. **Main Skeleton Script**: The backbone of BashBuddy, providing the fundamental logic for detecting package managers, checking for command availability, and managing package installations.
+3. **Tools from OSINTk.o**: An amazing Kali port geared towards OSINT.
+   - ***[How to Import-Export in VirtualBox](https://archive.ph/D1UkS).***
 
-2. **Simulation Sample Script**: A demonstration tool that simulates BashBuddy's functionality. It showcases how command-to-package mappings are defined and utilized, making it an excellent educational resource.
+4. **Custom Tools**: Some custom tools that run out of a modular framework.
+   - Pentesting
+     - Red / Blue
+   - Bug Bounty
+   - Data clean up tools
 
-3. **Fully Working Sample Script**: An expanded version of the Main Skeleton Script, including comprehensive command-to-package mappings and real installation capabilities. This script is intended for users who want to see BashBuddy in action, managing actual dependencies.
+5. **Modified Menu Architechture**: My optimization of menu flows, and organization of tools.
+   - Clean and friendly user interface.
+     - Optomized commands that perform multiple functions
+       - Example: Run top 10 email/username at one time, get one output.
 
-
-## Highly advised reading on usage instructions
-***[WIKI Page](https://github.com/shadowdevnotreal/Bash-buddy/wiki/).***
 
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/shadowdevnotreal/Bash-Buddy.git
-
-# Navigate to the BashBuddy directory
-cd BashBuddy
-
-# Make the scripts executable
-chmod +x bashbuddy.sh
-chmod +x sim_sample.sh
-chmod +x full_sample.sh
-```
-
-## Usage
-
-### Basic Usage with Main Skeleton Script
-
-Run BashBuddy with a list of required commands. It will verify their presence and offer to install any that are missing.
-
-```bash
-./bashbuddy.sh curl wget tar
-```
-
-### Exploring with the Simulation Sample Script
-
-Understand BashBuddy's logic without affecting your system by running the simulation script.
-
-```bash
-./sim_sample.sh
-```
-
-### Advanced Usage with Fully Working Sample Script
-
-Use the fully working sample script for managing real dependencies. This script will perform actual checks and installations.
-
-```bash
-./full_sample.sh git nvim htop
+# Import Appliance into Virtual Box
+# How Import Appliance into Virtual Box
+https://archive.ph/D1UkS
+# Download Link:
+to be inserted soon!
+#Enjoy
 ```
 
 ## Contributing
 
-We welcome contributions! Please follow these steps to contribute to BashBuddy:
+We welcome contributions! Please follow these steps to contribute to darooch:
 
 1. Fork the Project.
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
@@ -89,7 +65,7 @@ For support, feedback, or suggestions, please open an issue in the GitHub reposi
 
 ### Final Steps
 
-- Ensure you replace `https://github.com/shadowdevnotreal/Bash-Buddy.git` with the actual URL of your GitHub repository.
+- Ensure you replace `https://github.com/shadowdevnotreal/darooch.git` with the actual URL of your GitHub repository.
 - Adjust any specific instructions or descriptions as needed based on your project's setup or requirements.
 - If you have not already, consider adding a `LICENSE` file to clearly communicate how others can use or contribute to your project.
 
@@ -98,3 +74,7 @@ This README provides a comprehensive guide for users to get started, understand 
 ---
 
 As always = TY 😊 
+
+<a href="https://www.buymeacoffee.com/notarealdev">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
