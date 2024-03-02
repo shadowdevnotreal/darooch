@@ -11,7 +11,11 @@ Darooch is a clone of a modified script based off the newest work by Michael Baz
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
 </a>
 
-[Get to know Buscador History](https://github.com/shadowdevnotreal/darooch.wiki.git/)
+---
+
+[Get to know Buscador History. Why it is important, and who made it.](https://github.com/shadowdevnotreal/darooch.wiki.git/)
+
+---
 
 ## Features
 
