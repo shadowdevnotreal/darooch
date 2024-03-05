@@ -1,4 +1,5 @@
-![2024-03-02_05-10-38](https://github.com/shadowdevnotreal/darooch/assets/43219706/cbf203fd-97b5-4068-a7a0-773f5aae92d3)
+![52930fe9-f93b-416b-b3d8-6f54d26d329c](https://github.com/shadowdevnotreal/darooch/assets/43219706/487b6a8d-c008-4ff6-a2af-76574197224a)
+
 
 
 # Darooch
@@ -16,6 +17,8 @@ Darooch is a clone of a modified script based off the newest work by Michael Baz
 [Get to know Buscador History. Why it is important, and who made it.](https://github.com/shadowdevnotreal/darooch.wiki.git/)
 
 ---
+## Darooch means vigilance in Hebrew. 
+
 
 ## Features
 
