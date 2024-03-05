@@ -13,10 +13,6 @@ Darooch is a clone of a modified script based off the newest work by Michael Baz
 
 ---
 
-![Metrics](https://metrics.lecoq.io/shadowdevnotreal?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
-
----
-
 [Get to know Buscador History. Why it is important, and who made it.](https://github.com/shadowdevnotreal/darooch.wiki.git/)
 
 ---
