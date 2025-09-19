@@ -8,9 +8,7 @@ Darooch is a clone of a modified script based off the newest work by Michael Baz
 
 ## Support FOSS future development - Simping for donations here 👇
 
-<a href="https://www.buymeacoffee.com/notarealdev">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
-</a>
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Book" style="height: 40px !important;width: 145px !important;" ></a>
 
 ---
 
@@ -81,7 +79,3 @@ This README provides a comprehensive guide for users to get started, understand 
 ---
 
 As always = TY 😊 
-
-<a href="https://www.buymeacoffee.com/notarealdev">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a cat&emoji=🐈&slug=notarealdev&button_colour=9123cd&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />
-</a>
